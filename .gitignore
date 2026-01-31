@@ -1,3 +1,7 @@
+# Build Files
+build/
+ssl-0.0.0/
+
 # Idris 2
 *.ttc
 *.ttm
